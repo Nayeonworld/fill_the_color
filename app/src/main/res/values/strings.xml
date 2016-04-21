@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">FillTheColor</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_set">SetActivity</string>
+    <string name="title_activity_start">StartActivity</string>
+    <string name="walkingTime">오늘 걸은 시간</string>
+    <string name="sumTime">누적 시간</string>
+    <string name="hidden">시간을 입력해주세요.</string>
+    <string name="set">설정</string>
+    <string name="month">한달 목표시간</string>
+    <string name="sound">소리</string>
+    <string name="reset">초기화</string>
+    <string name="time">시간</string>
+    <string name="okay">OK</string>
+    <string name="apply">확인</string>
+    <string name="modify">수정</string>
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="gotoMain">처음으로</string>
+    <string name="setMonth">한달 목표시간을 입력해주세요 : </string>
+    <string name="hello_world">Hello world!</string>
+    <string name="send">보내기</string>
+    <string-array name="lists">
+        <item>분</item>
+        <item>시</item>
+    </string-array>
+    <string name="title_activity_set_month">SetMonthActivity</string>
+    <string name="minutes">분</string>
+</resources>
